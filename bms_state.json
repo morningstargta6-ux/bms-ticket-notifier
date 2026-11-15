@@ -1,37 +1,5 @@
 {
   "shows": {
-    "INQM|146079|20261115|ROYAL RECLINER": {
-      "venue": "INOX: Quest Mall",
-      "time": "02:45 PM",
-      "date": "20261115",
-      "cat": "ROYAL RECLINER",
-      "price": "1440.00",
-      "status": "0"
-    },
-    "INQM|146079|20261115|ROYAL": {
-      "venue": "INOX: Quest Mall",
-      "time": "02:45 PM",
-      "date": "20261115",
-      "cat": "ROYAL",
-      "price": "760.00",
-      "status": "0"
-    },
-    "INQM|146079|20261115|CLUB": {
-      "venue": "INOX: Quest Mall",
-      "time": "02:45 PM",
-      "date": "20261115",
-      "cat": "CLUB",
-      "price": "750.00",
-      "status": "1"
-    },
-    "INQM|146079|20261115|EXECUTIVE": {
-      "venue": "INOX: Quest Mall",
-      "time": "02:45 PM",
-      "date": "20261115",
-      "cat": "EXECUTIVE",
-      "price": "650.00",
-      "status": "3"
-    },
     "INQM|146080|20261115|ROYAL RECLINER": {
       "venue": "INOX: Quest Mall",
       "time": "06:50 PM",
@@ -54,7 +22,7 @@
       "date": "20261115",
       "cat": "CLUB",
       "price": "800.00",
-      "status": "2"
+      "status": "1"
     },
     "INQM|146080|20261115|EXECUTIVE": {
       "venue": "INOX: Quest Mall",
